@@ -36,3 +36,63 @@
     transform: rotate(360deg);
   }
 }
+
+.hello{
+  background-color: #61dafb;
+  /* width: 35%; */
+  /* text-align: center; */
+  border: seagreen;
+  margin-top:3% ;
+  border-radius: 2cm;
+  box-shadow: 2cm;
+
+}
+
+
+.whit{
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.whitee{
+  background-color: white;
+  font-size: large;
+  /* color: white; */
+}
+
+#expensecolor{
+  color: red;
+}
+
+
+.expense{
+
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+.divi{
+  border: white;
+  border:1px;
+  /* background-color: violet; */
+}
+
+.earnings{
+  color: green;
+  /* font-weight: 700; */
+}
+.hisd{
+  font-size: 1.5em;
+  color: aqua;
+}
+
+.first{
+  /* /* margin-left: 15%; */
+  /* padding-left: 10%;  */
+}
+
+
+.second{
+  margin-left: 15%;
+  text-align: right; 
+}
